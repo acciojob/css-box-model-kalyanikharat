@@ -1,2 +1,14 @@
 
-/* Your CSS Code here. */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.demo {
+  width: 300px;
+  background-color: lightblue;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  font-size: 16px;
+  color: #000;
+}
